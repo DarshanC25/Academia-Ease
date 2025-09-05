@@ -1,0 +1,2 @@
+# Academia-Ease
+Academia ease is a software application that aims to automate and streamline the various administrative tasks and processes of a school. These tasks may include student registration, attendance tracking, grade management, and communication with parents and teachers.
