@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f55176e12cb9fbfd69f747a6fb410eb3f4fcf7aad7f9b3b4cad85f996cad127e
-size 283
+Academia ease is a software application that aims to automate and streamline the various administrative tasks and processes of a school. These tasks may include student registration, attendance tracking, grade management, and communication with parents and teachers.
